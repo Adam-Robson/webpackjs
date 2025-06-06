@@ -46,7 +46,7 @@
     "url-loader": "^4.1.1",
     "webpack": "^5.96.1",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^5.0.4"
+    "webpack-dev-server": "^5.2.1"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
